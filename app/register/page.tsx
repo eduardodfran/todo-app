@@ -1,5 +1,6 @@
 "use client";
 
+
 export default function LoginPage() {
     return (
         <div className="container mx-auto p-4 flex flex-col items-center gap-8 h-full justify-center">
